@@ -48,10 +48,14 @@ Bash tool for basic reconnaissance and IP resolution.
  [View Project](https://github.com/Mandour948/bash-subdomain-scanner)
 
 ---
+### 🏦 Web Vulnerability Lab
+Web application security testing in a controlled lab environment.
 
-###  Network Scanning with Nmap
-- Performed port scanning and service detection
-- Identified open ports and potential attack vectors
+- Performed manual vulnerability testing
+- Analyzed HTTP requests and responses
+- Practiced OWASP-style attack surface exploration
+
+ [View Project](https://github.com/Mandour948/web-vulnerability-lab)
 
 ---
 
@@ -61,6 +65,11 @@ Bash tool for basic reconnaissance and IP resolution.
 
 ---
 
+###  Network Scanning with Nmap
+- Performed port scanning and service detection
+- Identified open ports and potential attack vectors
+  
+---
 ##  Certifications
 - HCIA Security — Huawei
 - HCIA Datacom — Huawei
