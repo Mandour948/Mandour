@@ -77,9 +77,8 @@ Web application security testing in a controlled lab environment.
 - ALX Software Engineering
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandour948&show_icons=true)
-
 ##  Contact
 - Email: amandour964@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mandour948
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandour948&show_icons=true&theme=radical)
