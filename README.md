@@ -72,5 +72,5 @@ Bash tool for basic reconnaissance and IP resolution.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandour948&show_icons=true)
 
 ##  Contact
-- Email: your-email-here
-- LinkedIn: your-link
+- Email: amandour964@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mandour948
