@@ -42,24 +42,22 @@ Junior penetration tester focused on web security and vulnerability assessment.
 
 ##  Projects
 
-###  Network Scanning with Nmap
-- Performed port scanning and service detection
-- Identified open ports and potential attack vectors  
-   [View Project](#)
+###  Subdomain Enumeration Script
+Bash tool for basic reconnaissance and IP resolution.
+
+ [View Project](https://github.com/Mandour948/bash-subdomain-scanner)
 
 ---
 
-###  Exploitation with Metasploit
-- Used Metasploit to gain access to vulnerable machine
-- Demonstrated basic exploitation workflow  
-   [View Project](#)
+###  Network Scanning with Nmap
+- Performed port scanning and service detection
+- Identified open ports and potential attack vectors
 
 ---
 
 ###  Web Vulnerability (SQL Injection / XSS)
 - Identified vulnerability in test environment
 - Demonstrated exploitation and explained impact  
-   [View Project](#)
 
 ---
 
